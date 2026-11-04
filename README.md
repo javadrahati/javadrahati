@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi, I'm Javad 👋
 
-<!--
-**javadrahati/javadrahati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack software engineer who ships products end to end, from UI design to backend, deployment and mobile apps.
 
-Here are some ideas to get you started:
+I work mostly with **TypeScript**: **Next.js** and **React** on the frontend, **NestJS** and **PostgreSQL** on the backend, and **React Native** and **Swift** for mobile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I do**
+
+- Design and build web apps, dashboards and marketplaces
+- Build APIs and backend services with NestJS
+- Ship cross-platform mobile apps to Google Play and the App Store
+- Use AI-assisted workflows to move fast without sacrificing code quality
+
+**Currently building**
+
+[tenantkit](https://github.com/javadrahati/tenantkit): a self-hosted multi-tenant SaaS starter for Next.js, with subdomain routing and Postgres Row-Level Security.
+
+**Stack**
+
+TypeScript · Next.js · React · Tailwind CSS · NestJS · Node.js · PostgreSQL · Docker · React Native · Swift · Figma
+
+**Find me**
+
+[Portfolio](https://portfolio-lovat-six-99.vercel.app)
